@@ -5,7 +5,7 @@
 #### By _**Caitlin Hines, Katy Daviscourt, Kaz Matthews, and Nicole Sanders**_
 
 ## Description
-
+ 
 _This application allows users to search for a company, view the company's political contributions and stock information, and add stocks to user's list of stocks to follow. View list of stocks in a user's portfolio, along with a pie chart breaking down the user's shares of each stock. Stocks can also be removed from portfolio._
 
 ## Setup/Installation Requirements
